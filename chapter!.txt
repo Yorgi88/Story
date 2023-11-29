@@ -2,3 +2,6 @@ It was the best times and it was the worst times.
 
 next we will create a git local repository and start tracking some file changes
 to initialize git use git init
+
+
+added the new alien feature, ahah so good
